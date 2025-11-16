@@ -3,15 +3,15 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "AuthorName"
-name = "ModName"
+namespace = "babaprog"
+name = "BoonsSelector"
 versionNumber = "0.0.1"
-description = "Allows to do some super duper thing."
-websiteUrl = "https://github.com/AuthorName/ModName"
+description = "Mod who help player to make the perfect build in Hades 2"
+websiteUrl = "https://github.com/BaptisteHardelin/BoonsSelector"
 containsNsfwContent = false
 
 [package.dependencies]
-Hell2Modding-Hell2Modding = "1.0.70"
+Hell2Modding-Hell2Modding = "1.0.80"
 LuaENVY-ENVY = "1.2.0"
 SGG_Modding-Chalk = "2.1.1"
 SGG_Modding-ReLoad = "1.0.2"
